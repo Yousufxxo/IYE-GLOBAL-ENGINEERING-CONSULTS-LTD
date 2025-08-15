@@ -462,8 +462,11 @@ body {
 /* Responsive Nav */
 @media (max-width: 768px) {
   .logo {
-  font-size: 1.0rem;
+  font-size: 0.9rem;
   color: var(--primary);
+}
+.logo-image{
+  width: 10%;
 }
   .hero .hero-overlay{
     margin: 20px;
